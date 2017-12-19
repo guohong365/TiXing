@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TiXing</string>
+
+    <string name="title_activity_startup">StartupActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="product_name">TiXing</string>
+    <string name="prduct_vender">Beijing Houde YingTian Lt.</string>
+    <string name="init_error">initailize application error.</string>
+</resources>
